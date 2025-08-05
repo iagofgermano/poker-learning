@@ -83,3 +83,42 @@
 ### 5.4 Concluindo
 - O **"dealer button" (BTN)** se move **no sentido horário** após cada mão.
 - Isso **rotaciona as posições** de todos os jogadores, garantindo equidade no longo prazo.
+## 6. Outras terminologias
+### 6.1 Termos de aposta
+- **Bet, Call, Raise**: Já citados na seção 2 desse documento
+- **Re-raise**: Aumentar uma aposta já aumentada
+- **Check**: Passar a vez sem apostar, caso não tenha aposta
+- **Fold**: Desistir da mão
+- **All-in**: Apostar tudo 
+- **Pot**: Total de fichas apostadas naquela mão
+- **3-bet**: 3º raise no pré-flop: Blind -> Raise -> 3-bet
+### 6.2 Tipos de cartas e mãos
+- **Hole Cards**: As 2 cartas fechadas de cada jogador
+- **Board**: As 5 cartas comunitárias da mesa
+- **Flop, Turn, River**: Já citados na seção 2 desse documento
+- **Kicker**: Carta usada para desempate fora da combinação principal
+- **Nuts**: Melhor mão possível naquele momento
+### 6.3 Termos estratégicos
+- **Range**: Conjunto de mãos que o jogador pode ter ou jogar
+- **Value Bet**: Aposta feita com uma mão forte para ser paga
+- **Bluff**: Aposta feita com uma mão fraca para forçar folds
+- **Semi-bluff**: Bluff com uma mão que ainda pode melhorar
+- **Continuation Bet (C-bet)**: Aposta feita após ser o agressor pré-flop
+- **Check-raise**: Dar check e depois aumentar após uma aposta
+- **Overbet**: Aposta maior que o tamanho do pote
+- **Tight**: Conservador - Joga poucas mãos
+- **Loose**: Agressivo - Joga muitas mãos
+- **Aggressive**: Estilo que aposta/raise mais do que paga
+- **Passive**: Estilo que paga/check mais do que aposta
+- **Limp**: Paga o big blind sem aumentar - geralmente fraco
+- **Donk Bet**: Aposta feita fora de posição no flop, sem ter sido o agressor pré-flop
+- **Probe Bet**: Aposta feita por quem não foi agressor anteriormente, para testar a força do oponente
+- **Hero Call**: Call feito com mão fraca, acreditando que o oponente está blefando
+- **Overcall**: Dar call depois que outro jogador já deu call
+- **Cold Call**: Call feita por alguém que ainda não entrou na mão, enfrentando uma ou mais apostas.
+- **Leveling**: Processo de tentar adivinhar o nível de pensamento do adversário
+- **Capped (Capado)**: Quando claramente o jogador não tem mãos muito fortes
+- **Range Merge**: Apostar com mãos de valor médio para pegar calls de mãos piores
+- **Float**: Call no flop com a intenção de blefar mais tarde
+- **Squeeze**: 3-bet feita após um raise + um ou dois calls, tentando pressionar os dois
+- **Slowplay**: Jogar uma mão forte como se fosse fraca para induzir apostas
