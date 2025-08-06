@@ -100,6 +100,7 @@
 - **Nuts**: Melhor mão possível naquele momento
 ### 6.3 Termos estratégicos
 - **Range**: Conjunto de mãos que o jogador pode ter ou jogar
+- **Draw**: Momento onde o jogador possui uma mão incompleta, precisando de mais cartas.
 - **Value Bet**: Aposta feita com uma mão forte para ser paga
 - **Bluff**: Aposta feita com uma mão fraca para forçar folds
 - **Semi-bluff**: Bluff com uma mão que ainda pode melhorar
