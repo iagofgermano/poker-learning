@@ -123,3 +123,4 @@
 - **Float**: Call no flop com a intenção de blefar mais tarde
 - **Squeeze**: 3-bet feita após um raise + um ou dois calls, tentando pressionar os dois
 - **Slowplay**: Jogar uma mão forte como se fosse fraca para induzir apostas
+- **Runner-Runner**: Quando a mão é feita acertando ambas as cartas no turn e no river

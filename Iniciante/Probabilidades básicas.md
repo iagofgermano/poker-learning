@@ -12,16 +12,17 @@
 	- Probabilidade de acertar no turn ≈ **9 * 2 = 18%**
 ## 3. Pot Odds: Relação entre valor que deve ser pago e o pote total
 - **Pot Odds = (Valor a pagar) / (Pote atual + Valor a pagar)**
-- Use para comparar com as **odds**
+- Use para comparar com as **odds**.
 - Ex. : 
 	- Pote = $100, Valor a pagar = $25
 	- Pot Odds = 25 / (100 + 25) = 20%
-- Se as odds forem maiores do que 20%, vale a pena pagar
+- Se as odds forem maiores do que 20%, vale a pena pagar.
 ## 4. Equidade: Chance de Ganhar no Showdown
-- % do pote que você "merece" com base nas probabilidades
+- O quanto você "merece" o pote com base nas probabilidades, ou seja, qual a chance de você ganhar no showdown.
+- Será abordado melhor nas seções "*Intermediário*".
 ## 5. Implied Odds: O valor que você espera ganhar se acertar sua mão
-- Não é matemática exata
-- Considera situações em que seu oponente continuará colocando fichas no pote caso você acerte, compensando odds desfavoráveis
+- Não é matemática exata.
+- Considera situações em que seu oponente continuará colocando fichas no pote caso você acerte, compensando odds desfavoráveis.
 ## 6. Fold Equity: Chance do oponente desistir da mão quando você aposta
 - Mesmo que você tenha uma mão fraca, uma aposta pode ser lucrativa se o adversário frequentemente foldar. O valor da sua jogada, então, vem não só da sua equidade do Showdown, mas também da probabilidade de você ganhar sem Showdown.
 ## 7. Expected Value (EV): Média matemática do resultado da sua jogada no longo prazo
